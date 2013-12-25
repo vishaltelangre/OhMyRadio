@@ -3,8 +3,6 @@ OhMyRadio.js :notes:
 
 ♫ Oh My Radio ♫
 
-### Demo example wrote w/ :sparkling_heart:
-
 ![oh-my-radio-screenshot!](https://raw.github.com/vishaltelangre/OhMyRadio/master/screenshot.png)
 
 ## Requirements:
@@ -15,6 +13,7 @@ OhMyRadio.js :notes:
 
 - For a complete working example, see `examples/index.html` file.
 - Demo available [here](http://vishaltelangre.com/projects/oh-my-radio), BTW.
+- *UPDATE:* Google chrome extension available [here](https://chrome.google.com/webstore/detail/ohmyradio/mahcbjpopcainjkjlfpgdbmifboeefap). Enjoy!
 
 ## Public API
 
